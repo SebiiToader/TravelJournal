@@ -12,10 +12,6 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
 
-        <meta-data
-            android:name="com.bugsnag.android.API_KEY"
-            android:value="aa8f5ddd573aba2f1a64ae553523ad7d"/>
-
         <activity android:name=".LoginActivity"/>
         <activity android:name=".NavigationDrawer.NavigationDrawer"/>
         <activity android:name=".MainActivity"/>
